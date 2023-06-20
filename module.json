@@ -1,0 +1,39 @@
+{
+  "name": "tabletop-rpg-music-cloud-streaming",
+  "id": "tabletop-rpg-music-cloud-streaming",
+  "title": "Tabletop RPG Music - Cloud Streaming",
+  "description": "<p>A free and evergrowing collection of Fantasy and Sci Fi tracks for Foundry users. Support me on <a href='https://www.patreon.com/tabletoprpgmusic' title='Patreon'>Patreon</a> to help me keep writing!</p>",
+  "author": "Tabletop RPG Music",
+  "authors": [
+    {
+      "name": "Tabletop RPG Music - Cloud Streaming"
+    }
+  ],
+  "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music-cloud-streaming/",
+  "flags": {},
+  "version": "2.2.0",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "11",
+  "compatibility": {
+    "minimum": "0.8.8",
+    "verified": "11"
+  },
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "tabletop-rpg-music-cloud-streaming",
+      "label": "Tabletop RPG Music - Cloud Streaming",
+      "path": "/packs/tabletop-rpg-music-cloud-streaming.db",
+      "type": "Playlist",
+      "private": false
+    }
+  ],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music-cloud-streaming/master/module.json",
+  "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music-cloud-streaming/archive/master.zip",
+  "protected": false,
+  "coreTranslation": false
+}
