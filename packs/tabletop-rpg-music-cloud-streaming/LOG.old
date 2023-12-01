@@ -1,0 +1,5 @@
+2023/11/18-19:46:39.362 2234 Delete type=3 #1
+2023/11/18-19:50:11.569 4b0c Level-0 table #5: started
+2023/11/18-19:50:11.622 4b0c Level-0 table #5: 105230 bytes OK
+2023/11/18-19:50:11.668 4b0c Delete type=0 #3
+2023/11/18-19:50:11.669 4b0c Manual compaction at level-0 from '!folders!7RhKzIkiFdfVHT99' @ 72057594037927935 : 1 .. '!playlists.sounds!zuNOZiAGr9miQWDC.w4WSVeOmXHFwhOhc' @ 0 : 0; will stop at (end)
