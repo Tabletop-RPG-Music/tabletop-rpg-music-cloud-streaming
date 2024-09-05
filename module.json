@@ -10,18 +10,12 @@
     }
   ],
   "url": "https://www.patreon.com/tabletoprpgmusic",
-  "flags": {},
-  "version": "3.2.0",
-  "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "11",
+  "version": "3.3.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
   "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
   "packs": [
     {
       "name": "tabletop-rpg-music-cloud-streaming",
