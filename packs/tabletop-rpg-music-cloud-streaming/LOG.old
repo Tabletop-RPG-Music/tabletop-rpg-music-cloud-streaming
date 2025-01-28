@@ -1,5 +1,0 @@
-2024/09/05-12:11:45.554 1904 Delete type=3 #1
-2024/09/05-12:14:53.322 3bf0 Level-0 table #5: started
-2024/09/05-12:14:53.327 3bf0 Level-0 table #5: 124140 bytes OK
-2024/09/05-12:14:53.331 3bf0 Delete type=0 #3
-2024/09/05-12:14:53.350 3bf0 Manual compaction at level-0 from '!folders!ETDspIWBnYebtaTb' @ 72057594037927935 : 1 .. '!playlists.sounds!x1QxQOT3ALKMxn3m.wrBvSE6j5mtwq1tf' @ 0 : 0; will stop at (end)
